@@ -1,0 +1,5 @@
+{
+  "name": "Meeting Intelligence Platform",
+  "description": "Платформа для транскрибации встреч, автоматического создания саммари, выделения задач и общения с AI по содержанию встречи.",
+  "requestFramePermissions": []
+}
